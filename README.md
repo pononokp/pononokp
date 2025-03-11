@@ -58,7 +58,7 @@ Passionate about software creation, innovation, game dev, and continuous learnin
 
 <div align="center">
   <img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pononokp&theme=tokyonight&hide_border=true&border_radius=0" /> 
-  <img align="center" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pononokp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&border_radius=0" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pononokp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=0" />
 </div>
 
 ###
