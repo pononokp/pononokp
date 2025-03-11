@@ -57,8 +57,7 @@ Passionate about software creation, innovation, game dev, and continuous learnin
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pononokp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pononokp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pononokp&theme=vue-dark&hide_border=true&border_radius=0" /> <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pononokp&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=0" />
 </div>
 
 ###
