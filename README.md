@@ -63,7 +63,7 @@ Passionate about software creation, innovation, game dev, and continuous learnin
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pononokp&locale=en&mode=daily&ttheme=vue-dark&hide_border=true&border_radius=0&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=pononokp&locale=en&mode=daily&ttheme=dark&hide_border=true&border_radius=0&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
