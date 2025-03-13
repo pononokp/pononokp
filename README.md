@@ -4,7 +4,7 @@
 <pre>
 Passionate about software creation, innovation, game dev, and continuous learning. Let's connect and collaborate! ✨
   
-- 🔭 I’m currently working on Fun2Learn
+- 🔭 I’m currently working on a Gamified Time Management Web App for Students (Fun2Learn) and an AI language translator (No name yet).
 - 🌱 I’m currently learning cloud computing and AI
 - 👯 I’m looking to collaborate on software development projects. Could be any field as long as I get to create something
 - 💬 Ask me about aything
