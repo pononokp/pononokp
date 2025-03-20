@@ -2,7 +2,7 @@
 #### Aspiring Software Engineer
 
 <pre>
-Passionate about software creation, innovation, game dev, and continuous learning. Let's connect and collaborate! ✨
+Passionate about AI software creation, innovation, game dev, and continuous learning. Let's connect and collaborate! ✨
   
 - 🔭 I’m currently working on a Gamified Time Management Web App for Students (Fun2Learn) and an AI language translator
 - 🌱 I’m currently learning cloud computing and AI
